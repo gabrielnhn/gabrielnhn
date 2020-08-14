@@ -5,4 +5,4 @@
 
 <h5>🐝 Yapira UFPR Robotics Team</h5>
 
-<h5>🐍 Try my Snake game in my repository</h5>
+<h5>🐍 Try out my Snake game in my repository!</h5>
