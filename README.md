@@ -3,6 +3,4 @@
 <h5>🏛️ UFPR - Computer Science</h5>
 <h5>💬 gnhn19@inf.ufpr.br</h4>
 
-<h5>🐝 Yapira UFPR Robotics Team</h5>
-
-<h5>🐍 Try out my Snake game in my repository!</h5>
+<h5>🐝 Yapira UFPR Robotics Team</h5
