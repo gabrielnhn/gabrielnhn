@@ -5,4 +5,4 @@
 
 <h5>🐝 Yapira UFPR Robotics Team</h5
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielnhn)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielnhn&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
