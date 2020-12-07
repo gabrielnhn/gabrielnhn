@@ -1,10 +1,10 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielnhn&hide=stars,issues&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
-🏛️  Computer Science at [UFPR](http://bcc.ufpr.br/)
+### 🏛️  Computer Science at [UFPR](http://bcc.ufpr.br/)
 
-🐝  Making robots move and see at [Yapira UFPR](https://www.facebook.com/ufpr.yapira) Robotics Team
+### 🐝  Making robots move and see at [Yapira UFPR](https://www.facebook.com/ufpr.yapira) Robotics Team
 
-✉️  [gabrielnhn@ufpr.br](mailto:gabrielnhn@ufpr.br)
+### ✉️  [gabrielnhn@ufpr.br](mailto:gabrielnhn@ufpr.br)
 
 [<img alt="Codium" width="26px" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_120,h_120/https://dashboard.snapcraft.io/site_media/appmedia/2020/09/vscodium512.png" />](https://vscodium.com/)
 [<img alt="Python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">](https://www.python.org/)
