@@ -1,4 +1,4 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielnhn&hide=stars,issues&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielnhn&hide=stars,issues&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🏛️  Studying Computer Science at [UFPR](http://bcc.ufpr.br/)
 
