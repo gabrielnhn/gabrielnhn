@@ -17,6 +17,6 @@
 [<img alt="GitHub" width="45px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">](https://github.com/)
 [<img alt="Git" width="45px" src="https://img.icons8.com/color/240/000000/git.png">](https://git-scm.com/)
 
-[<img alt="ROS" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1280px-Ros_logo.svg.png" />](https://www.ros.org/)
+[<img alt="ROS" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1280px-Ros_logo.svg.png" />](https://www.ros.org/)
 
 [<img alt="Codium" width="45px" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_120,h_120/https://dashboard.snapcraft.io/site_media/appmedia/2020/09/vscodium512.png" />](https://vscodium.com/)
