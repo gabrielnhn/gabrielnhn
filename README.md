@@ -13,8 +13,8 @@
 [<img alt="C" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />](https://gcc.gnu.org/)
 
 [<img alt="Ubuntu" width="45px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">](https://ubuntu.com/)
-[<img alt="Bash" width="45px" src="https://icon-library.com/images/bash-icon/bash-icon-20.jpg">](https://www.gnu.org/software/bash/)
-[<img alt="GitHub" width="45px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">](https://github.com/)
+[<img alt="Terminator" width="40px" src="https://icons.iconarchive.com/icons/alecive/flatwoken/128/Apps-Terminator-icon.png">](https://gnome-terminator.org/)
+[<img alt="GitHub" width="45px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">](https://github.com/)
 [<img alt="Git" width="45px" src="https://img.icons8.com/color/240/000000/git.png">](https://git-scm.com/)
 
 [<img alt="ROS" height="30px" src="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/Ros_logo.png" />](https://www.ros.org/)
