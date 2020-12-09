@@ -6,6 +6,8 @@
 
 ### ✉️  [gabrielnhn@ufpr.br](mailto:gabrielnhn@ufpr.br)
 
+### `Some day-to-day tools I'm comfortable with`:
+
 [<img alt="Codium" width="45px" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_120,h_120/https://dashboard.snapcraft.io/site_media/appmedia/2020/09/vscodium512.png" />](https://vscodium.com/)
 [<img alt="Python" width="45px" src="https://img.icons8.com/color/240/000000/python.png">](https://www.python.org/)
 [<img alt="C" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />](https://gcc.gnu.org/)
