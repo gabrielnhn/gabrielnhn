@@ -2,7 +2,7 @@
 
 ### 🏛️  Studying Computer Science at [UFPR](http://bcc.ufpr.br/)
 
-### 🐝  Making robots move and see at [Yapira UFPR](https://www.facebook.com/ufpr.yapira) Robotics Team
+### 🐝  Making robots at [Yapira UFPR](https://www.facebook.com/ufpr.yapira) Robotics Team
 
 ### ✉️  [gabrielnhn@ufpr.br](mailto:gabrielnhn@ufpr.br)
 
