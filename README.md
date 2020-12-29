@@ -1,12 +1,12 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielnhn&hide=stars,issues&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🏛️  Studying Computer Science at [UFPR](http://bcc.ufpr.br/)
+### 🏛️  [UFPR](http://bcc.ufpr.br/)
 
-### 🐝  Making robots at [Yapira UFPR](https://www.facebook.com/ufpr.yapira) Robotics Team
+### 🐝  [Yapira UFPR](https://www.facebook.com/ufpr.yapira) Robotics Team
 
 ### ✉️  [gabrielnhn@ufpr.br](mailto:gabrielnhn@ufpr.br)
 
-### Tools in my toolbelt:
+### Tools I recommend:
 
 
 [<img alt="Python" width="45px" src="https://img.icons8.com/color/240/000000/python.png">](https://www.python.org/)
