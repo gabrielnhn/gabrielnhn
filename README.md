@@ -14,8 +14,9 @@
 [<img alt="C" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />](https://gcc.gnu.org/)
 
 [<img alt="Ubuntu" width="45px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">](https://ubuntu.com/)
-[<img alt="GitHub" width="45px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">](https://github.com/)
 [<img alt="Git" width="45px" src="https://img.icons8.com/color/240/000000/git.png">](https://git-scm.com/)
+[<img alt="GitHub" width="45px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">](https://github.com/)
+
 
 [<img alt="ROS" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1280px-Ros_logo.svg.png" />](https://www.ros.org/)
 
