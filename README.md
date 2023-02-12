@@ -1,10 +1,13 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielnhn&hide=stars,issues&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-#### 🏛️  [UFPR](http://bcc.ufpr.br/)
 
-#### 🐝  [Yapira UFPR](https://www.facebook.com/ufpr.yapira) Robotics Team
+## Check the [github.io website](https://gabrielnhn.github.io/)!
 
-#### ✉️  [gabrielnhn@ufpr.br](mailto:gabrielnhn@ufpr.br)
+[🏛️ UFPR](http://bcc.ufpr.br/)
+
+[🐝 Yapira UFPR](https://www.facebook.com/ufpr.yapira) Robotics Team
+
+[✉️ gabrielnhn@ufpr.br](mailto:gabrielnhn@ufpr.br)
 
 
 
