@@ -1,7 +1,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielnhn&hide=stars,issues&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Check the [github.io website](https://gabrielnhn.github.io/)!
+[🌐 Github.io website](https://gabrielnhn.github.io/)
 
 [🏛️ UFPR](http://bcc.ufpr.br/)
 
