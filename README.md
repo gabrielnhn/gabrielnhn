@@ -12,8 +12,8 @@
 
 <h1>Projects</h1>
 
-<p>I'm part of the <a href="https://www.facebook.com/ufpr.yapira">Yapira UFPR</a> Robotics Team.</p> 
-<p>Watch our computer vision-based line follower robot at RoboCore Experience 2023, where we received the Innovation Award!</p>
+<p><a href="https://www.facebook.com/ufpr.yapira">Yapira UFPR</a> Robotics Team.</p> 
+<p>RoboCore Experience 2023 Innovation Award:</p>
 
 <a href="https://www.youtube.com/watch?v=ufpI7cly8JM">Line Follower Video</a>
 
