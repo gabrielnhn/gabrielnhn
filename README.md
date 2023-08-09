@@ -1,7 +1,5 @@
 <div style="text-align: center;">
 
- <h2>Gabriel Nascarella Hishida <img class="profile-picture" src="https://avatars.githubusercontent.com/u/55661167?v=4"></h2>
-
 <p>I'm a grad Informatics student, getting my master's at <a href="https://web.inf.ufpr.br/bcc/">Universidade Federal do Paraná</a>.</p> 
 <p>I'm interested in robotics, computer vision and deep learning.</p>
 
