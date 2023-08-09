@@ -1,7 +1,6 @@
 <div style="text-align: center;">
 
-<p>I'm a grad Informatics student, getting my master's at <a href="https://web.inf.ufpr.br/bcc/">Universidade Federal do Paraná</a>.</p> 
-<p>I'm interested in robotics, computer vision and deep learning.</p>
+<p>I'm a grad Informatics student interested in robotics, computer vision and deep learning.</p>
 
 <div class="icon-container">
         <a href="https://www.python.org/"><img class="icon_img" alt="Python" height="34px" src="https://img.icons8.com/color/240/000000/python.png"></a>
