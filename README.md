@@ -32,5 +32,4 @@
 
 <a href="https://www.youtube.com/watch?v=s49nZorNE7A"><img src="https://img.youtube.com/vi/s49nZorNE7A/0.jpg" alt="Video demo"></a>
 
-<p><a href="http://lattes.cnpq.br/5118923055291342">Curriculum (Lattes, pt-br)</a></p>
 </div>
