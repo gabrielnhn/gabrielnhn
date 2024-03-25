@@ -20,7 +20,7 @@ RoboCore Experience 2023 Innovation Award | <a href="https://www.youtube.com/wat
 
 <h3>Publications</h3>
 
-<h4> <a href="https://www.youtube.com/watch?v=_muyewFN-GU"><img height="50px" src="https://img.youtube.com/vi/_muyewFN-GU/0.jpg" alt="Video demo"></a>  "Look where you’re going: Classifying drivers' attention through 3D gaze estimation" | <a href="./Thesis_LWYG.pdf">PDF</a> | <a href="https://github.com/VRI-UFPR/LWYG-drivers-attention">GitHub Code</a> | <a href="https://www.youtube.com/watch?v=_muyewFN-GU">Video demo</a> </h4>
+<h4> <a href="https://www.youtube.com/watch?v=_muyewFN-GU"><img height="50px" src="https://img.youtube.com/vi/_muyewFN-GU/0.jpg" alt="Video demo"></a>  "Look where you’re going: Classifying drivers' attention through 3D gaze estimation" | <a href="./Thesis_LWYG.pdf">PDF</a> | <a href="https://github.com/VRI-UFPR/LWYG-drivers-attention">Code</a> | <a href="https://www.youtube.com/watch?v=_muyewFN-GU">Video Demo</a> </h4>
 
 <h4> <a href="https://www.youtube.com/watch?v=s49nZorNE7A"><img height="50px" src="https://img.youtube.com/vi/s49nZorNE7A/0.jpg" alt="Video demo"></a> "VRI-GazeNet: 3D Gaze Estimation for Real-time Applications" | <a href="https://github.com/VRI-UFPR/GazeNet">GitHub Code</a> | <a href="https://www.youtube.com/watch?v=s49nZorNE7A">Video demo</a>  </h4>
 
