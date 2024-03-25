@@ -17,8 +17,7 @@
 <h4> <a href="https://www.youtube.com/watch?v=ufpI7cly8JM"><img height="50px" src="https://img.youtube.com/vi/ufpI7cly8JM/0.jpg" alt="Line Follower Video"></a> 
 RoboCore Experience 2023 Innovation Award | <a href="https://www.youtube.com/watch?v=ufpI7cly8JM">Line Follower Video</a> </h4>
 
-
-<h3>Publications</h3>
+<!--- <h3>Publications</h3> -->
 
 <h4> <a href="https://www.youtube.com/watch?v=_muyewFN-GU"><img height="50px" src="https://img.youtube.com/vi/_muyewFN-GU/0.jpg" alt="Video demo"></a>  "Look where you’re going: Classifying drivers' attention through 3D gaze estimation" | <a href="./Thesis_LWYG.pdf">PDF</a> | <a href="https://github.com/VRI-UFPR/LWYG-drivers-attention">Code</a> | <a href="https://www.youtube.com/watch?v=_muyewFN-GU">Video Demo</a> </h4>
 
